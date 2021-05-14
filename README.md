@@ -17,6 +17,13 @@ This a simple arithmetic calculator written in x86 assembly with minimalistic op
 `"*"` For Multiplication <br>
 `"/"` For Division <br>
 
+#screenshots
+
+![Image alt](https://github.com/Komoldin/Calculator_Project/blob/main/screen/1.png)
+
+![Image alt](https://github.com/Komoldin/Calculator_Project/blob/main/screen/2.png)
+
+
 
 
 
