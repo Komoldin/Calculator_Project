@@ -18,20 +18,5 @@ This a simple arithmetic calculator written in x86 assembly with minimalistic op
 `"/"` For Division <br>
 
 
-<h4>Compiling</h4>
-```bash
-nasm -f elf64 -o calc.o calc.asm
-ld -d calc calc.o
-```
-or
 
-```bash
-make
-```
-<h4>Blogs which helped me</h4>
-http://0xax.blogspot.in/search/label/asm
-
-<h1> Fork it</h1>
-Twitter @flouthoc<br>
-Email flouthoc@gmail.com
 
